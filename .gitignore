@@ -1,0 +1,5 @@
+.idea
+/images/**
+!/images/.gitkeep
+/exports/**
+!/exports/.gitkeep
